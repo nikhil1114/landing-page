@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+li{
+    padding: 5vh;
+    list-style: none;
+}
+
+.btn-5{
+    border: black solid 2px;
+    padding: 10px;
+    border-radius:15px;
+    background: white;
+    color: gray;
+    box-shadow: 15px;
+
+}
+
+ .col-md-5{
+    display: grid;
+    place-items: center;
+}
+
+.perent{
+    background: #8585ad;
+    box-sizing: 20px;
+    padding: 20px;
+}
+
